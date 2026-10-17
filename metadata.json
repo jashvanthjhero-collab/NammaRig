@@ -1,0 +1,6 @@
+{
+  "name": "NammaRig",
+  "description": "Chennai's PC & Laptop Hub — 8-Component Rig Studio CAD, Ritchie Street price comparison, and lane-optimized shopping slip with WhatsApp quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
